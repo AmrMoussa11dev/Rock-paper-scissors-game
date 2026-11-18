@@ -22,3 +22,4 @@ A console-based Rock, Paper, Scissors game written in C++[span_0](start_span)[sp
 
 ## Sample Gameplay
 ![Game Output](Game.png)
+![Gameplay](Screenshot%202026-11-18%20105613.png)
