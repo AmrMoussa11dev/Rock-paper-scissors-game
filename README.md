@@ -1,77 +1,45 @@
-#Rock Paper Scissors Game
-A simple and interactive console game developed using C++ that simulates the classic Rock, Paper, Scissors game between the player and the computer.
+# ✊Rock Paper Scissors Game (C++)
 
-📖 Overview
-This project was built to practice core programming concepts such as:
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![Platform](https://img.shields.io/badge/Platform-Console-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Functions
-Enumerations (Enums)
-Loops
-Conditional Statements
-Random Number Generation
-Input Validation
-Modular Programming
-The game allows the player to compete against the computer over multiple rounds while tracking scores and displaying the final winner.
+An interactive, console-based Rock, Paper, Scissors game built in C++[span_0](start_span)[span_0](end_span). This project simulates the classic hand game between a human player and a computer opponent, focusing on clean code architecture, modular design, and user-friendly console interaction.
 
-🚀 Features
-Play multiple rounds against the computer
-Random computer choices
-Round-by-round result display
-Score tracking system
-Final game summary
-Clean and user-friendly console interface
-Input validation for a better user experience
-🎮 How the Game Works
-The player chooses the number of rounds.
+---
 
-For each round:
+## 📖 Overview
+This project was developed to apply and reinforce core C++ and Structured Programming principles. Rather than writing all logic in a single block, the game is broken down into small, reusable, and single-responsibility functions.
 
-The player selects:
+### 🧠 Core Concepts Applied
+- Modular Programming: Separating game logic, UI rendering, and score tracking into dedicated functions.
+- **Enumerations (enum):** Enhancing code readability and type safety for game choices and round winners.
+- **Structures (struct):** Grouping round and final game statistics cleanly.
+- Control Flow: Utilizing loops and conditional statements (if-else, switch) for game progression.
+- Randomization: Using rand() and srand() to generate unpredictable computer moves.
+- Input Validation: Ensuring the user enters valid choices and round numbers without crashing the program.
 
-Rock
-Paper
-Scissors
-The computer generates a random choice.
+---
 
-The winner of the round is determined according to the game rules.
+## 🚀 Key Features
+- Customizable Match Length: Choose between 1 to 10 rounds per match.
+- Smart Console Feedback: Clear, formatted round summaries showing both player and computer choices, round winner, and visual color/sound cues (if supported by OS).
+- Real-Time Score Tracking: Keeps accurate count of Player Wins, Computer Wins, and Draws.
+- Replayability: Option to start a new match immediately after viewing the final game-over summary.
 
-Scores are updated after each round.
+---
 
-At the end of the game, a final summary is displayed showing:
+## 🎮 How It Works
+1. Setup: Enter the desired number of rounds (1 to 10).
+2. Gameplay Loop: 
+   - Select your move: [1] Stone, [2] Paper, or [3] Scissors.
+   - The computer randomly selects its move.
+   - The round winner is evaluated and displayed instantly.
+3. Final Summary: Once all rounds conclude, a comprehensive Game Over screen displays total rounds, individual win counts, draws, and the overall champion.
 
-Total rounds played
-Player wins
-Computer wins
-Draws
-Overall winner
-📂 Project Structure
-RockPaperScissorsGame/
-│
-├── Source.cpp
-└── README.md
-🎯 Learning Outcomes
-Through this project, I improved my understanding of:
+---
 
-Problem Solving
-Program Decomposition
-Function Design
-Game Logic Implementation
-Clean Code Practices
-Working with Enums and Randomization
-📸 Sample Gameplay
-RAW RESULT : Result Draw1 Failed Result : Result Faild Won Result : Result Won
-
-🔮 Future Improvements
-Graphical User Interface (GUI)
-Difficulty Levels
-Statistics History
-Multiplayer Mode
-Enhanced Visual Effects
-👨‍💻 Author
-#Amr Mousa
-
-GitHub:
-
-LinkedIn: https://www.linkedin.com/in/hafed-al-razy-9352a33a7
-
-⭐ If you found this project interesting, feel free to star the repository.
+## 🛠️ How to Run Locally
+1. Clone the repository:
+   `bash
+   git clone [https://github.com/AmrMoussa11dev/Rock-paper-scissors-game.git](https://github.com/AmrMoussa11dev/Rock-paper-scissors-game.git)
