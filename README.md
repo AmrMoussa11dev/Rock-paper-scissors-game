@@ -20,7 +20,7 @@ A console-based Rock, Paper, Scissors game written in C++[span_0](start_span)[sp
    `bash
    git clone [https://github.com/AmrMoussa11dev/Rock-paper-scissors-game.git](https://github.com/AmrMoussa11dev/Rock-paper-scissors-game.git)
 
-##📸 Sample Gameplay
+## 📸Sample Gameplay
 
 ![Game Start](Game.png)
 ![Gameplay Screenshot 1](Screenshot%202026-11-18%20105613.png)
