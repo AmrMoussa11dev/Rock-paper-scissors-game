@@ -26,5 +26,5 @@ A console-based Rock, Paper, Scissors game written in C++[span_0](start_span)[sp
 ![Gameplay Screenshot 1](Screenshot%202026-11-18%20105613.png)
 ![Gameplay Screenshot 2](Screenshot%202026-11-18%20105659.png)
 ![Game Results](Screenshot%202026-11-18%20105804.png)
-
+![Game Results](Screenshot.png)
 
