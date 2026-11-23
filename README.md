@@ -18,10 +18,10 @@ A console-based Rock, Paper, Scissors game written in C++. The player competes a
 ## Screenshots
 
 ### Gameplay Rounds
-![Gameplay Rounds](gameplay-rounds.png)
+![Gameplay Rounds](https://raw.githubusercontent.com/AmrMoussa11dev/Rock-paper-scissors-game/main/gameplay-rounds.png)
 
 ### Game Results
-![Game Results](game-results.png)
+![Game Results](https://raw.githubusercontent.com/AmrMoussa11dev/Rock-paper-scissors-game/main/Game%20Results.png)
 
 ## How to Run
 1. Clone the repository:
