@@ -18,7 +18,7 @@ A console-based Rock, Paper, Scissors game written in C++. The player competes a
 ## Screenshots
 
 ### Gameplay Rounds
-![Gameplay Rounds](gameplay-rounds.png)
+![Gameplay Rounds](​gameplay-rounds.png)
 
 ### Game Results
 ![Game Results](Game%20Results.png)
